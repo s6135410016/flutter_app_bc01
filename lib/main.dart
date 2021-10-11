@@ -5,8 +5,7 @@ void main() {
   runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
-      home:LoginUI(), //เรียกหน้าจอแรก
+      home: LoginUI(), //เรียกหน้าจอแรก
     ),
   );
-  
 }
